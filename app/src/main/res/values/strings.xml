@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">PermissionManager</string>
+    <string name="internetTextView">Internet</string>
+    <string name="wifiStateTextView">WIFI State</string>
+    <string name="addVoiceMailTextView">Add Voice Mail</string>
+    <string name="readCallLogTextView">Read Call Log</string>
+    <string name="readContactsTextView">Read Contacts</string>
+    <string name="readSmsTextView">Read Sms</string>
+    <string name="grant_all_button">Grant all</string>
+    <string name="rationaleReadSms">This permission will allow you to read SMS messages</string>
+    <string name="rationaleReadContacts">This permission will allow you to select contacts to read messages</string>
+    <string name="rationaleReadCallLog">This permission will allow you to read logs calls</string>
+    <string name="rationaleAnswerPhoneCalls">This permission will allow you to answer phone calls</string>
+    <string name="rationaleMultiPermission">These permissions are needed for full functionality</string>
 </resources>
